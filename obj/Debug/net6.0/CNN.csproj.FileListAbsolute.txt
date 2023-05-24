@@ -1,0 +1,15 @@
+/Users/ethansterling/Documents/C#/CNN/bin/Debug/net6.0/CNN
+/Users/ethansterling/Documents/C#/CNN/bin/Debug/net6.0/CNN.deps.json
+/Users/ethansterling/Documents/C#/CNN/bin/Debug/net6.0/CNN.runtimeconfig.json
+/Users/ethansterling/Documents/C#/CNN/bin/Debug/net6.0/CNN.dll
+/Users/ethansterling/Documents/C#/CNN/bin/Debug/net6.0/CNN.pdb
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.csproj.AssemblyReference.cache
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.AssemblyInfoInputs.cache
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.AssemblyInfo.cs
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.csproj.CoreCompileInputs.cache
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.dll
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/refint/CNN.dll
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.pdb
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/CNN.genruntimeconfig.cache
+/Users/ethansterling/Documents/C#/CNN/obj/Debug/net6.0/ref/CNN.dll
